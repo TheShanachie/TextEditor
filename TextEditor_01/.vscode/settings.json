@@ -4,7 +4,4 @@
     "java.project.referencedLibraries": [
         "lib/**/*.jar"
     ],
-    //"console": "externalTerminal",
-    //"code-runner.clearPreviousOutput": true,
-    //"code-runner.showExecutionMessage": false
 }
